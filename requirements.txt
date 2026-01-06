@@ -1,0 +1,9 @@
+flask
+nltk
+spacy
+sentence-transformers
+scikit-learn
+numpy
+requests
+google-genai
+en-core-web-sm
